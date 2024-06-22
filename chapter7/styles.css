@@ -1,0 +1,18 @@
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+}
+
+.signup-from {
+  display: block;
+
+}
+
+.success {
+  border: 2px solid limegreen;
+}
+
+.error {
+  border: 2px solid crimson;
+}
