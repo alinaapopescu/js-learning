@@ -38,5 +38,6 @@ items.forEach(item => {
 })
 
 ul.addEventListener('click', e =>{
-  console.log('event in ul');
+  // console.log('event in ul');
+  console.log(e.target);
 })
